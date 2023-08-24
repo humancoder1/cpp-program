@@ -1,0 +1,1 @@
+{"name":"Local: Remove_Space_from_string","url":"d:\\C++ program\\questions\\Remove_Space_from_string.cpp","tests":[{"id":1691235941409,"input":"1\nhello world","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ program\\questions\\Remove_Space_from_string.cpp","group":"local","local":true}

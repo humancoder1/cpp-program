@@ -1,0 +1,1 @@
+{"name":"Local: String_to_lower_case","url":"d:\\C++ program\\questions\\String_to_lower_case.cpp","tests":[{"id":1691236440814,"input":"1\nABCDhello","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ program\\questions\\String_to_lower_case.cpp","group":"local","local":true}
