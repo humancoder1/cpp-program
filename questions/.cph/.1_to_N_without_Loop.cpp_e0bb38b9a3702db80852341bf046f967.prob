@@ -1,0 +1,1 @@
+{"name":"Local: 1_to_N_without_Loop","url":"d:\\C++ program\\questions\\1_to_N_without_Loop.cpp","tests":[{"id":1692506887321,"input":"1\n9","output":"1 2 3 4 5 6 7 8 9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ program\\questions\\1_to_N_without_Loop.cpp","group":"local","local":true}
