@@ -4,10 +4,10 @@
 			"path": "."
 		},
 		{
-			"path": "../gfg questions"
+			"path": "../Leetcode Questions"
 		},
 		{
-			"path": "../Leetcode Questions"
+			"path": "../GFG questions"
 		}
 	],
 	"settings": {
